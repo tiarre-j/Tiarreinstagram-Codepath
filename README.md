@@ -1,8 +1,8 @@
-# Project 3 - *mondoinstagram-Codepath*
+# Project 3 - *Tiarreinstagram-Codepath*
 
 **mondoinstagram-Codepath** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **30** hours spent in total
 
 ## User Stories
 
