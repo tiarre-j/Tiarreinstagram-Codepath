@@ -24,3 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("armando-instagram-codepath", appContext.getPackageName());
     }
 }
+
